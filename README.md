@@ -223,7 +223,6 @@ The domain **unsecuredapikeys.com** is available for sale. If you're interested 
 ## 📞 Support
 
 For issues specific to this open source version:
-- Check the [Issues](https://github.com/TSCarterJr/UnsecuredAPIKeys-OpenSource/issues) section
 - Create a new issue with detailed information about your setup
 - Provide logs and configuration details (without sensitive information)
 
