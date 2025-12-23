@@ -216,10 +216,6 @@ This applies whether you use the entire project, just the backend APIs, validati
 - Security researchers who highlight the importance of proper API key management
 - Contributors who help improve the project
 
-## 🌐 Domain Available
-
-The domain **unsecuredapikeys.com** is available for sale. If you're interested in acquiring this domain for your own security-focused project or business, please reach out through the GitHub repository.
-
 ## 📞 Support
 
 For issues specific to this open source version:
