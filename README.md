@@ -66,7 +66,7 @@ The project consists of several interconnected components:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/TSCarterJr/UnsecuredAPIKeys-OpenSource.git
+git clone (https://github.com/sharmaofficiall/UnsecuredAPIKeys-clone.git)
 cd UnsecuredAPIKeys-OpenSource
 ```
 
@@ -198,7 +198,7 @@ This project is licensed under a **custom attribution-required license** based o
 
 - Display a link to this GitHub repository in your UI
 - Link text should be "Based on UnsecuredAPIKeys Open Source" or similar  
-- Link to: `https://github.com/TSCarterJr/UnsecuredAPIKeys-OpenSource`
+- Link to: `(https://github.com/sharmaofficiall/UnsecuredAPIKeys-clone.git)`
 - Must be visible on main page or footer
 
 This applies whether you use the entire project, just the backend APIs, validation logic, bots, or any other component. **Removing attribution violates the license and constitutes copyright infringement.**
