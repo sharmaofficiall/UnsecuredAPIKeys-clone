@@ -1,0 +1,15 @@
+D:\Downloads\Compressed\UnsecuredAPIKeys-OpenSource-main\UnsecuredAPIKeys-OpenSource-main\UnsecuredAPIKeys.Providers\bin\Release\net9.0\UnsecuredAPIKeys.Providers.deps.json
+D:\Downloads\Compressed\UnsecuredAPIKeys-OpenSource-main\UnsecuredAPIKeys-OpenSource-main\UnsecuredAPIKeys.Providers\bin\Release\net9.0\UnsecuredAPIKeys.Providers.dll
+D:\Downloads\Compressed\UnsecuredAPIKeys-OpenSource-main\UnsecuredAPIKeys-OpenSource-main\UnsecuredAPIKeys.Providers\bin\Release\net9.0\UnsecuredAPIKeys.Providers.pdb
+D:\Downloads\Compressed\UnsecuredAPIKeys-OpenSource-main\UnsecuredAPIKeys-OpenSource-main\UnsecuredAPIKeys.Providers\bin\Release\net9.0\UnsecuredAPIKeys.Data.dll
+D:\Downloads\Compressed\UnsecuredAPIKeys-OpenSource-main\UnsecuredAPIKeys-OpenSource-main\UnsecuredAPIKeys.Providers\bin\Release\net9.0\UnsecuredAPIKeys.Data.pdb
+D:\Downloads\Compressed\UnsecuredAPIKeys-OpenSource-main\UnsecuredAPIKeys-OpenSource-main\UnsecuredAPIKeys.Providers\obj\Release\net9.0\UnsecuredAPIKeys.Providers.csproj.AssemblyReference.cache
+D:\Downloads\Compressed\UnsecuredAPIKeys-OpenSource-main\UnsecuredAPIKeys-OpenSource-main\UnsecuredAPIKeys.Providers\obj\Release\net9.0\UnsecuredAPIKeys.Providers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\Compressed\UnsecuredAPIKeys-OpenSource-main\UnsecuredAPIKeys-OpenSource-main\UnsecuredAPIKeys.Providers\obj\Release\net9.0\UnsecuredAPIKeys.Providers.AssemblyInfoInputs.cache
+D:\Downloads\Compressed\UnsecuredAPIKeys-OpenSource-main\UnsecuredAPIKeys-OpenSource-main\UnsecuredAPIKeys.Providers\obj\Release\net9.0\UnsecuredAPIKeys.Providers.AssemblyInfo.cs
+D:\Downloads\Compressed\UnsecuredAPIKeys-OpenSource-main\UnsecuredAPIKeys-OpenSource-main\UnsecuredAPIKeys.Providers\obj\Release\net9.0\UnsecuredAPIKeys.Providers.csproj.CoreCompileInputs.cache
+D:\Downloads\Compressed\UnsecuredAPIKeys-OpenSource-main\UnsecuredAPIKeys-OpenSource-main\UnsecuredAPIKeys.Providers\obj\Release\net9.0\Unsecure.F1CCD160.Up2Date
+D:\Downloads\Compressed\UnsecuredAPIKeys-OpenSource-main\UnsecuredAPIKeys-OpenSource-main\UnsecuredAPIKeys.Providers\obj\Release\net9.0\UnsecuredAPIKeys.Providers.dll
+D:\Downloads\Compressed\UnsecuredAPIKeys-OpenSource-main\UnsecuredAPIKeys-OpenSource-main\UnsecuredAPIKeys.Providers\obj\Release\net9.0\refint\UnsecuredAPIKeys.Providers.dll
+D:\Downloads\Compressed\UnsecuredAPIKeys-OpenSource-main\UnsecuredAPIKeys-OpenSource-main\UnsecuredAPIKeys.Providers\obj\Release\net9.0\UnsecuredAPIKeys.Providers.pdb
+D:\Downloads\Compressed\UnsecuredAPIKeys-OpenSource-main\UnsecuredAPIKeys-OpenSource-main\UnsecuredAPIKeys.Providers\obj\Release\net9.0\ref\UnsecuredAPIKeys.Providers.dll

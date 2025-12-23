@@ -1,0 +1,36 @@
+{
+  "version": 2,
+  "dgSpecHash": "YdP6RhYkDp8=",
+  "success": true,
+  "projectFilePath": "D:\\Downloads\\Compressed\\UnsecuredAPIKeys-OpenSource-main\\UnsecuredAPIKeys-OpenSource-main\\tools\\db-utils\\DbUtils.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sharma Official\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Sharma Official\\.nuget\\packages\\npgsql\\7.0.6\\npgsql.7.0.6.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "message": "DbUtils depends on Npgsql (>= 7.0.5) but Npgsql 7.0.5 was not found. Npgsql 7.0.6 was resolved instead.",
+      "projectPath": "D:\\Downloads\\Compressed\\UnsecuredAPIKeys-OpenSource-main\\UnsecuredAPIKeys-OpenSource-main\\tools\\db-utils\\DbUtils.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\Downloads\\Compressed\\UnsecuredAPIKeys-OpenSource-main\\UnsecuredAPIKeys-OpenSource-main\\tools\\db-utils\\DbUtils.csproj",
+      "libraryId": "Npgsql",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'Npgsql' 7.0.6 has a known high severity vulnerability, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c",
+      "projectPath": "D:\\Downloads\\Compressed\\UnsecuredAPIKeys-OpenSource-main\\UnsecuredAPIKeys-OpenSource-main\\tools\\db-utils\\DbUtils.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\Downloads\\Compressed\\UnsecuredAPIKeys-OpenSource-main\\UnsecuredAPIKeys-OpenSource-main\\tools\\db-utils\\DbUtils.csproj",
+      "libraryId": "Npgsql",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    }
+  ]
+}

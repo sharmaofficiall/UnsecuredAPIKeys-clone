@@ -1,0 +1,14 @@
+D:\Downloads\Compressed\UnsecuredAPIKeys-OpenSource-main\UnsecuredAPIKeys-OpenSource-main\tools\CheckProviders\bin\Debug\net9.0\CheckProviders.exe
+D:\Downloads\Compressed\UnsecuredAPIKeys-OpenSource-main\UnsecuredAPIKeys-OpenSource-main\tools\CheckProviders\bin\Debug\net9.0\CheckProviders.deps.json
+D:\Downloads\Compressed\UnsecuredAPIKeys-OpenSource-main\UnsecuredAPIKeys-OpenSource-main\tools\CheckProviders\bin\Debug\net9.0\CheckProviders.runtimeconfig.json
+D:\Downloads\Compressed\UnsecuredAPIKeys-OpenSource-main\UnsecuredAPIKeys-OpenSource-main\tools\CheckProviders\bin\Debug\net9.0\CheckProviders.dll
+D:\Downloads\Compressed\UnsecuredAPIKeys-OpenSource-main\UnsecuredAPIKeys-OpenSource-main\tools\CheckProviders\bin\Debug\net9.0\CheckProviders.pdb
+D:\Downloads\Compressed\UnsecuredAPIKeys-OpenSource-main\UnsecuredAPIKeys-OpenSource-main\tools\CheckProviders\obj\Debug\net9.0\CheckProviders.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\Compressed\UnsecuredAPIKeys-OpenSource-main\UnsecuredAPIKeys-OpenSource-main\tools\CheckProviders\obj\Debug\net9.0\CheckProviders.AssemblyInfoInputs.cache
+D:\Downloads\Compressed\UnsecuredAPIKeys-OpenSource-main\UnsecuredAPIKeys-OpenSource-main\tools\CheckProviders\obj\Debug\net9.0\CheckProviders.AssemblyInfo.cs
+D:\Downloads\Compressed\UnsecuredAPIKeys-OpenSource-main\UnsecuredAPIKeys-OpenSource-main\tools\CheckProviders\obj\Debug\net9.0\CheckProviders.csproj.CoreCompileInputs.cache
+D:\Downloads\Compressed\UnsecuredAPIKeys-OpenSource-main\UnsecuredAPIKeys-OpenSource-main\tools\CheckProviders\obj\Debug\net9.0\CheckProviders.dll
+D:\Downloads\Compressed\UnsecuredAPIKeys-OpenSource-main\UnsecuredAPIKeys-OpenSource-main\tools\CheckProviders\obj\Debug\net9.0\refint\CheckProviders.dll
+D:\Downloads\Compressed\UnsecuredAPIKeys-OpenSource-main\UnsecuredAPIKeys-OpenSource-main\tools\CheckProviders\obj\Debug\net9.0\CheckProviders.pdb
+D:\Downloads\Compressed\UnsecuredAPIKeys-OpenSource-main\UnsecuredAPIKeys-OpenSource-main\tools\CheckProviders\obj\Debug\net9.0\CheckProviders.genruntimeconfig.cache
+D:\Downloads\Compressed\UnsecuredAPIKeys-OpenSource-main\UnsecuredAPIKeys-OpenSource-main\tools\CheckProviders\obj\Debug\net9.0\ref\CheckProviders.dll

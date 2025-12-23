@@ -1,0 +1,298 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Downloads\\Compressed\\UnsecuredAPIKeys-OpenSource-main\\UnsecuredAPIKeys-OpenSource-main\\UnsecuredAPIKeys.Bots.Verifier\\UnsecuredAPIKeys.Bots.Verifier.csproj": {}
+  },
+  "projects": {
+    "D:\\Downloads\\Compressed\\UnsecuredAPIKeys-OpenSource-main\\UnsecuredAPIKeys-OpenSource-main\\UnsecuredAPIKeys.Bots.Verifier\\UnsecuredAPIKeys.Bots.Verifier.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Downloads\\Compressed\\UnsecuredAPIKeys-OpenSource-main\\UnsecuredAPIKeys-OpenSource-main\\UnsecuredAPIKeys.Bots.Verifier\\UnsecuredAPIKeys.Bots.Verifier.csproj",
+        "projectName": "UnsecuredAPIKeys.Bots.Verifier",
+        "projectPath": "D:\\Downloads\\Compressed\\UnsecuredAPIKeys-OpenSource-main\\UnsecuredAPIKeys-OpenSource-main\\UnsecuredAPIKeys.Bots.Verifier\\UnsecuredAPIKeys.Bots.Verifier.csproj",
+        "packagesPath": "C:\\Users\\Sharma Official\\.nuget\\packages\\",
+        "outputPath": "D:\\Downloads\\Compressed\\UnsecuredAPIKeys-OpenSource-main\\UnsecuredAPIKeys-OpenSource-main\\UnsecuredAPIKeys.Bots.Verifier\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "F:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Sharma Official\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "D:\\Downloads\\Compressed\\UnsecuredAPIKeys-OpenSource-main\\UnsecuredAPIKeys-OpenSource-main\\UnsecuredAPIKeys.Data\\UnsecuredAPIKeys.Data.csproj": {
+                "projectPath": "D:\\Downloads\\Compressed\\UnsecuredAPIKeys-OpenSource-main\\UnsecuredAPIKeys-OpenSource-main\\UnsecuredAPIKeys.Data\\UnsecuredAPIKeys.Data.csproj"
+              },
+              "D:\\Downloads\\Compressed\\UnsecuredAPIKeys-OpenSource-main\\UnsecuredAPIKeys-OpenSource-main\\UnsecuredAPIKeys.Providers\\UnsecuredAPIKeys.Providers.csproj": {
+                "projectPath": "D:\\Downloads\\Compressed\\UnsecuredAPIKeys-OpenSource-main\\UnsecuredAPIKeys-OpenSource-main\\UnsecuredAPIKeys.Providers\\UnsecuredAPIKeys.Providers.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "LangChain": {
+              "target": "Package",
+              "version": "[0.17.0, )"
+            },
+            "LangChain.Providers.Anthropic": {
+              "target": "Package",
+              "version": "[0.17.0, )"
+            },
+            "LangChain.Providers.Google": {
+              "target": "Package",
+              "version": "[0.17.0, )"
+            },
+            "LangChain.Providers.OpenAI": {
+              "target": "Package",
+              "version": "[0.17.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[9.0.6, )"
+            },
+            "Microsoft.Extensions.Configuration.EnvironmentVariables": {
+              "target": "Package",
+              "version": "[9.0.6, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[9.0.6, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.6, )"
+            },
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[9.0.6, )"
+            },
+            "Microsoft.Extensions.Logging.Console": {
+              "target": "Package",
+              "version": "[9.0.6, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.22.1, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Downloads\\Compressed\\UnsecuredAPIKeys-OpenSource-main\\UnsecuredAPIKeys-OpenSource-main\\UnsecuredAPIKeys.Data\\UnsecuredAPIKeys.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Downloads\\Compressed\\UnsecuredAPIKeys-OpenSource-main\\UnsecuredAPIKeys-OpenSource-main\\UnsecuredAPIKeys.Data\\UnsecuredAPIKeys.Data.csproj",
+        "projectName": "UnsecuredAPIKeys.Data",
+        "projectPath": "D:\\Downloads\\Compressed\\UnsecuredAPIKeys-OpenSource-main\\UnsecuredAPIKeys-OpenSource-main\\UnsecuredAPIKeys.Data\\UnsecuredAPIKeys.Data.csproj",
+        "packagesPath": "C:\\Users\\Sharma Official\\.nuget\\packages\\",
+        "outputPath": "D:\\Downloads\\Compressed\\UnsecuredAPIKeys-OpenSource-main\\UnsecuredAPIKeys-OpenSource-main\\UnsecuredAPIKeys.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "F:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Sharma Official\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.6, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Downloads\\Compressed\\UnsecuredAPIKeys-OpenSource-main\\UnsecuredAPIKeys-OpenSource-main\\UnsecuredAPIKeys.Providers\\UnsecuredAPIKeys.Providers.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Downloads\\Compressed\\UnsecuredAPIKeys-OpenSource-main\\UnsecuredAPIKeys-OpenSource-main\\UnsecuredAPIKeys.Providers\\UnsecuredAPIKeys.Providers.csproj",
+        "projectName": "UnsecuredAPIKeys.Providers",
+        "projectPath": "D:\\Downloads\\Compressed\\UnsecuredAPIKeys-OpenSource-main\\UnsecuredAPIKeys-OpenSource-main\\UnsecuredAPIKeys.Providers\\UnsecuredAPIKeys.Providers.csproj",
+        "packagesPath": "C:\\Users\\Sharma Official\\.nuget\\packages\\",
+        "outputPath": "D:\\Downloads\\Compressed\\UnsecuredAPIKeys-OpenSource-main\\UnsecuredAPIKeys-OpenSource-main\\UnsecuredAPIKeys.Providers\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "F:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Sharma Official\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "D:\\Downloads\\Compressed\\UnsecuredAPIKeys-OpenSource-main\\UnsecuredAPIKeys-OpenSource-main\\UnsecuredAPIKeys.Data\\UnsecuredAPIKeys.Data.csproj": {
+                "projectPath": "D:\\Downloads\\Compressed\\UnsecuredAPIKeys-OpenSource-main\\UnsecuredAPIKeys-OpenSource-main\\UnsecuredAPIKeys.Data\\UnsecuredAPIKeys.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[9.0.6, )"
+            },
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[9.0.6, )"
+            },
+            "NGitLab": {
+              "target": "Package",
+              "version": "[9.2.0, )"
+            },
+            "Octokit": {
+              "target": "Package",
+              "version": "[14.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+D:\Downloads\Compressed\UnsecuredAPIKeys-OpenSource-main\UnsecuredAPIKeys-OpenSource-main\UnsecuredAPIKeys.Data\bin\Release\net8.0\UnsecuredAPIKeys.Data.deps.json
+D:\Downloads\Compressed\UnsecuredAPIKeys-OpenSource-main\UnsecuredAPIKeys-OpenSource-main\UnsecuredAPIKeys.Data\bin\Release\net8.0\UnsecuredAPIKeys.Data.runtimeconfig.json
+D:\Downloads\Compressed\UnsecuredAPIKeys-OpenSource-main\UnsecuredAPIKeys-OpenSource-main\UnsecuredAPIKeys.Data\bin\Release\net8.0\UnsecuredAPIKeys.Data.dll
+D:\Downloads\Compressed\UnsecuredAPIKeys-OpenSource-main\UnsecuredAPIKeys-OpenSource-main\UnsecuredAPIKeys.Data\bin\Release\net8.0\UnsecuredAPIKeys.Data.pdb
+D:\Downloads\Compressed\UnsecuredAPIKeys-OpenSource-main\UnsecuredAPIKeys-OpenSource-main\UnsecuredAPIKeys.Data\obj\Release\net8.0\UnsecuredAPIKeys.Data.csproj.AssemblyReference.cache
+D:\Downloads\Compressed\UnsecuredAPIKeys-OpenSource-main\UnsecuredAPIKeys-OpenSource-main\UnsecuredAPIKeys.Data\obj\Release\net8.0\UnsecuredAPIKeys.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\Compressed\UnsecuredAPIKeys-OpenSource-main\UnsecuredAPIKeys-OpenSource-main\UnsecuredAPIKeys.Data\obj\Release\net8.0\UnsecuredAPIKeys.Data.AssemblyInfoInputs.cache
+D:\Downloads\Compressed\UnsecuredAPIKeys-OpenSource-main\UnsecuredAPIKeys-OpenSource-main\UnsecuredAPIKeys.Data\obj\Release\net8.0\UnsecuredAPIKeys.Data.AssemblyInfo.cs
+D:\Downloads\Compressed\UnsecuredAPIKeys-OpenSource-main\UnsecuredAPIKeys-OpenSource-main\UnsecuredAPIKeys.Data\obj\Release\net8.0\UnsecuredAPIKeys.Data.csproj.CoreCompileInputs.cache
+D:\Downloads\Compressed\UnsecuredAPIKeys-OpenSource-main\UnsecuredAPIKeys-OpenSource-main\UnsecuredAPIKeys.Data\obj\Release\net8.0\UnsecuredAPIKeys.Data.dll
+D:\Downloads\Compressed\UnsecuredAPIKeys-OpenSource-main\UnsecuredAPIKeys-OpenSource-main\UnsecuredAPIKeys.Data\obj\Release\net8.0\refint\UnsecuredAPIKeys.Data.dll
+D:\Downloads\Compressed\UnsecuredAPIKeys-OpenSource-main\UnsecuredAPIKeys-OpenSource-main\UnsecuredAPIKeys.Data\obj\Release\net8.0\UnsecuredAPIKeys.Data.pdb
+D:\Downloads\Compressed\UnsecuredAPIKeys-OpenSource-main\UnsecuredAPIKeys-OpenSource-main\UnsecuredAPIKeys.Data\obj\Release\net8.0\UnsecuredAPIKeys.Data.genruntimeconfig.cache
+D:\Downloads\Compressed\UnsecuredAPIKeys-OpenSource-main\UnsecuredAPIKeys-OpenSource-main\UnsecuredAPIKeys.Data\obj\Release\net8.0\ref\UnsecuredAPIKeys.Data.dll

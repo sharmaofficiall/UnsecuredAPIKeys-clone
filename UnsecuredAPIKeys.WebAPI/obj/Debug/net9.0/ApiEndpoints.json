@@ -1,0 +1,441 @@
+[
+  {
+    "ContainingType": "UnsecuredAPIKeys.WebAPI.Controllers.APIController",
+    "Method": "ConfirmDonation",
+    "RelativePath": "API/ConfirmDonation",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "UnsecuredAPIKeys.WebAPI.Controllers.APIController\u002BDonationConfirmationDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UnsecuredAPIKeys.WebAPI.Controllers.APIController",
+    "Method": "ConfirmDonationAutomatic",
+    "RelativePath": "API/ConfirmDonationAutomatic",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "UnsecuredAPIKeys.WebAPI.Controllers.APIController\u002BAutomaticDonationConfirmationDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UnsecuredAPIKeys.WebAPI.Controllers.APIController",
+    "Method": "DebugActiveUsers",
+    "RelativePath": "API/DebugActiveUsers",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UnsecuredAPIKeys.WebAPI.Controllers.APIController",
+    "Method": "GetActiveUserCount",
+    "RelativePath": "API/GetActiveUserCount",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Int32",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "UnsecuredAPIKeys.WebAPI.Controllers.APIController",
+    "Method": "GetAllValidKeys",
+    "RelativePath": "API/GetAllValidKeys",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "page",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "pageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "type",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "UnsecuredAPIKeys.WebAPI.Controllers.APIController\u002BPaginatedResponse\u00601[[UnsecuredAPIKeys.Data.Models.APIKey, UnsecuredAPIKeys.Data, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "UnsecuredAPIKeys.WebAPI.Controllers.APIController",
+    "Method": "GetDisplayCount",
+    "RelativePath": "API/GetDisplayCount",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Int64",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "UnsecuredAPIKeys.WebAPI.Controllers.APIController",
+    "Method": "GetDonationStats",
+    "RelativePath": "API/GetDonationStats",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UnsecuredAPIKeys.WebAPI.Controllers.APIController",
+    "Method": "GetInvalidationStats",
+    "RelativePath": "API/GetInvalidationStats",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UnsecuredAPIKeys.WebAPI.Controllers.APIController",
+    "Method": "GetKeyRotations",
+    "RelativePath": "API/GetKeyRotations",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "count",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[UnsecuredAPIKeys.WebAPI.Controllers.APIController\u002BKeyRotationDto, UnsecuredAPIKeys.WebAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "UnsecuredAPIKeys.WebAPI.Controllers.APIController",
+    "Method": "GetKeyStatistics",
+    "RelativePath": "API/GetKeyStatistics",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UnsecuredAPIKeys.WebAPI.Controllers.APIController",
+    "Method": "GetKeyTypes",
+    "RelativePath": "API/GetKeyTypes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[UnsecuredAPIKeys.WebAPI.Controllers.APIController\u002BApiTypeCountDto, UnsecuredAPIKeys.WebAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "UnsecuredAPIKeys.WebAPI.Controllers.APIController",
+    "Method": "GetLeaderboardStats",
+    "RelativePath": "API/GetLeaderboardStats",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UnsecuredAPIKeys.WebAPI.Controllers.APIController",
+    "Method": "GetPatternEffectiveness",
+    "RelativePath": "API/GetPatternEffectiveness",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[UnsecuredAPIKeys.WebAPI.Controllers.APIController\u002BPatternEffectivenessDto, UnsecuredAPIKeys.WebAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "UnsecuredAPIKeys.WebAPI.Controllers.APIController",
+    "Method": "GetRandomKey",
+    "RelativePath": "API/GetRandomKey",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "type",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "UnsecuredAPIKeys.Data.Models.APIKey",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "UnsecuredAPIKeys.WebAPI.Controllers.APIController",
+    "Method": "GetRateLimitInfo",
+    "RelativePath": "API/GetRateLimitInfo",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UnsecuredAPIKeys.WebAPI.Controllers.APIController",
+    "Method": "GetSnitchLeaderboard",
+    "RelativePath": "API/GetSnitchLeaderboard",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "count",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[UnsecuredAPIKeys.WebAPI.Controllers.APIController\u002BSnitchLeaderboardDto, UnsecuredAPIKeys.WebAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "UnsecuredAPIKeys.WebAPI.Controllers.PayPalIPNController",
+    "Method": "ProcessIPN",
+    "RelativePath": "api/paypal/ipn",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UnsecuredAPIKeys.WebAPI.Controllers.APIController",
+    "Method": "SubmitSupporterInfo",
+    "RelativePath": "API/SubmitSupporterInfo",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "UnsecuredAPIKeys.WebAPI.Controllers.APIController\u002BSupporterInfoDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UnsecuredAPIKeys.WebAPI.Controllers.APIController",
+    "Method": "TrackDonationClick",
+    "RelativePath": "API/TrackDonationClick",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "UnsecuredAPIKeys.WebAPI.Controllers.APIController\u002BDonationClickTrackingDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UnsecuredAPIKeys.WebAPI.Controllers.APIController",
+    "Method": "TrackIssueSubmission",
+    "RelativePath": "API/TrackIssueSubmission",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "UnsecuredAPIKeys.WebAPI.Controllers.APIController\u002BIssueSubmissionTrackingDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UnsecuredAPIKeys.WebAPI.Controllers.APIController",
+    "Method": "KeyFixedWebhook",
+    "RelativePath": "API/webhook/key-fixed",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "notification",
+        "Type": "UnsecuredAPIKeys.WebAPI.Controllers.APIController\u002BKeyFixedNotification",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UnsecuredAPIKeys.WebAPI.Controllers.DiscordAuthController",
+    "Method": "HandleCallback",
+    "RelativePath": "DiscordAuth/callback",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "UnsecuredAPIKeys.WebAPI.Controllers.DiscordCallbackRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UnsecuredAPIKeys.WebAPI.Controllers.DiscordAuthController",
+    "Method": "GetLoginUrl",
+    "RelativePath": "DiscordAuth/login",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UnsecuredAPIKeys.WebAPI.Controllers.DiscordAuthController",
+    "Method": "RefreshMembership",
+    "RelativePath": "DiscordAuth/refresh-membership/{discordId}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "discordId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UnsecuredAPIKeys.WebAPI.Controllers.DiscordAuthController",
+    "Method": "GetUserInfo",
+    "RelativePath": "DiscordAuth/user/{discordId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "discordId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UnsecuredAPIKeys.WebAPI.Controllers.StatusController",
+    "Method": "GetStatus",
+    "RelativePath": "Status/GetStatus",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "includeLogs",
+        "Type": "System.Boolean",
+        "IsRequired": false
+      },
+      {
+        "Name": "logLines",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

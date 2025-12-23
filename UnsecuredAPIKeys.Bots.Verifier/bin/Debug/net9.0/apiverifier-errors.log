@@ -1,0 +1,210 @@
+[2025-12-22T20:36:35.6488808Z] INFO: No providers have patterns matching key: pplx...uGlO
+
+[2025-12-22T20:36:35.6544216Z] INFO: Info: Key 1048 (pplx...uGlO) had service error with Perplexity AI. Preserving Error status.
+
+[2025-12-22T20:36:35.6676727Z] INFO: Info: Key 1048 skipped due to service error. Detail: API request failed with status NotFound. Response: 
+
+[2025-12-22T20:36:35.6887059Z] INFO: No providers have patterns matching key: pplx...Yvc4
+
+[2025-12-22T20:36:35.6917883Z] INFO: Info: Key 391 (pplx...Yvc4) had service error with Perplexity AI. Preserving Error status.
+
+[2025-12-22T20:36:35.6974804Z] INFO: Info: Key 391 skipped due to service error. Detail: API request failed with status NotFound. Response: 
+
+[2025-12-22T20:36:42.5495835Z] INFO: No providers have patterns matching key: xai-...w2J4
+
+[2025-12-22T20:36:42.5527918Z] INFO: Info: Key 85 (xai-...w2J4) had service error with xAI. Preserving Error status.
+
+[2025-12-22T20:36:42.5654205Z] INFO: Info: Key 85 skipped due to service error. Detail: API request failed with status Forbidden. Response: {"code":"The caller does not have permission to execute the specified operation","error":"API key is currently blocked: Blocked due to API key leak"}
+
+[2025-12-22T20:36:42.5658176Z] INFO: No providers have patterns matching key: xai-...8thu
+
+[2025-12-22T20:36:42.5715766Z] INFO: Info: Key 92 (xai-...8thu) had service error with xAI. Preserving Error status.
+
+[2025-12-22T20:36:42.5765625Z] INFO: Info: Key 92 skipped due to service error. Detail: API request failed with status BadRequest. Response: {"code":"Client specified an invalid argument","error":"Incorrect API key provided: xa***hu. You can obtain an API key from https://console.x.ai."}
+
+[2025-12-22T20:36:42.5900386Z] INFO: No providers have patterns matching key: SG.f...iZwQ
+
+[2025-12-22T20:36:42.5900402Z] INFO: No providers have patterns matching key: SG.P...W4SA
+
+[2025-12-22T20:36:42.5900387Z] INFO: No providers have patterns matching key: SG.f...5hbA
+
+[2025-12-22T20:36:42.5900607Z] INFO: No providers have patterns matching key: SG.D...hOug
+
+[2025-12-22T20:36:42.5900782Z] INFO: No providers have patterns matching key: SG.1...wxyz
+
+[2025-12-22T20:36:42.5932778Z] INFO: Info: Key 1028 (SG.f...iZwQ) had service error with SendGrid. Preserving Error status.
+
+[2025-12-22T20:36:42.5962067Z] INFO: Info: Key 175 (SG.P...W4SA) had service error with SendGrid. Preserving Error status.
+
+[2025-12-22T20:36:42.5994254Z] INFO: Info: Key 1195 (SG.f...5hbA) had service error with SendGrid. Preserving Error status.
+
+[2025-12-22T20:36:42.6030239Z] INFO: Info: Key 975 (SG.D...hOug) had service error with SendGrid. Preserving Error status.
+
+[2025-12-22T20:36:42.6063443Z] INFO: Info: Key 602 (SG.1...wxyz) had service error with SendGrid. Preserving Error status.
+
+[2025-12-22T20:36:42.6114880Z] INFO: Info: Key 1028 skipped due to service error. Detail: API key format is invalid.
+
+[2025-12-22T20:36:42.6140280Z] INFO: Info: Key 175 skipped due to service error. Detail: API key format is invalid.
+
+[2025-12-22T20:36:42.6170562Z] INFO: Info: Key 1195 skipped due to service error. Detail: API key format is invalid.
+
+[2025-12-22T20:36:42.6201615Z] INFO: Info: Key 975 skipped due to service error. Detail: API key format is invalid.
+
+[2025-12-22T20:36:42.6239733Z] INFO: Info: Key 602 skipped due to service error. Detail: API key format is invalid.
+
+[2025-12-23T04:29:10.5899073Z] INFO: Info: Key 502 (gsk_...MCoN) validated for Groq.
+
+[2025-12-23T04:29:11.1314104Z] INFO: Info: Key 1067 (sk-a...xgAA) validated for Anthropic.
+
+[2025-12-23T04:29:11.3875053Z] INFO: Info: Key 420 (http...8272) validated for Sentry.
+
+[2025-12-23T04:29:11.3929276Z] INFO: Info: Key 417 (http...6512) validated for Sentry.
+
+[2025-12-23T04:29:12.3333896Z] INFO: Info: Key 592 (sk-p...q8AA) validated for OpenAI.
+
+[2025-12-23T04:29:12.4914039Z] INFO: Info: Key 591 (sk-p...QPYA) validated for OpenAI.
+
+[2025-12-23T04:29:13.2311138Z] INFO: No providers have patterns matching key: pplx...Yvc4
+
+[2025-12-23T04:29:13.2346118Z] INFO: Info: Key 391 (pplx...Yvc4) had service error with Perplexity AI. Preserving Error status.
+
+[2025-12-23T04:29:13.2428147Z] INFO: Warning: Key 391 exceeded max error threshold (11 errors). Marking as Invalid.
+
+[2025-12-23T04:29:13.2462443Z] INFO: Warning: Key 391 marked as invalid. Detail: API request failed with status NotFound. Response:  HTTP: NotFound
+
+[2025-12-23T04:29:13.3303744Z] INFO: No providers have patterns matching key: pplx...uGlO
+
+[2025-12-23T04:29:13.3333402Z] INFO: Info: Key 1048 (pplx...uGlO) had service error with Perplexity AI. Preserving Error status.
+
+[2025-12-23T04:29:13.3374927Z] INFO: Warning: Key 1048 exceeded max error threshold (11 errors). Marking as Invalid.
+
+[2025-12-23T04:29:13.3400200Z] INFO: Warning: Key 1048 marked as invalid. Detail: API request failed with status NotFound. Response:  HTTP: NotFound
+
+[2025-12-23T04:29:13.6639939Z] INFO: No providers have patterns matching key: xai-...8thu
+
+[2025-12-23T04:29:13.6671678Z] INFO: No providers have patterns matching key: xai-...w2J4
+
+[2025-12-23T04:29:13.6673934Z] INFO: Info: Key 92 (xai-...8thu) had service error with xAI. Preserving Error status.
+
+[2025-12-23T04:29:13.6697101Z] INFO: Info: Key 85 (xai-...w2J4) had service error with xAI. Preserving Error status.
+
+[2025-12-23T04:29:13.6710615Z] INFO: Info: Key 1049 (xai-...PvXG) validated for xAI.
+
+[2025-12-23T04:29:13.6733991Z] INFO: Warning: Key 92 exceeded max error threshold (11 errors). Marking as Invalid.
+
+[2025-12-23T04:29:13.6755121Z] INFO: Warning: Key 85 exceeded max error threshold (11 errors). Marking as Invalid.
+
+[2025-12-23T04:29:13.6791619Z] INFO: Warning: Key 92 marked as invalid. Detail: API request failed with status BadRequest. Response: {"code":"Client specified an invalid argument","error":"Incorrect API key provided: xa***hu. You can obtain an API key from https://console.x.ai."} HTTP: BadRequest
+
+[2025-12-23T04:29:13.6812689Z] INFO: Warning: Key 85 marked as invalid. Detail: API request failed with status Forbidden. Response: {"code":"The caller does not have permission to execute the specified operation","error":"API key is currently blocked: Blocked due to API key leak"} HTTP: Forbidden
+
+[2025-12-23T04:29:13.6920634Z] INFO: No providers have patterns matching key: SG.f...5hbA
+
+[2025-12-23T04:29:13.6920635Z] INFO: No providers have patterns matching key: SG.P...W4SA
+
+[2025-12-23T04:29:13.6920666Z] INFO: No providers have patterns matching key: SG.1...wxyz
+
+[2025-12-23T04:29:13.6920686Z] INFO: No providers have patterns matching key: SG.f...iZwQ
+
+[2025-12-23T04:29:13.6920694Z] INFO: No providers have patterns matching key: SG.D...hOug
+
+[2025-12-23T04:29:13.6949611Z] INFO: Info: Key 1195 (SG.f...5hbA) had service error with SendGrid. Preserving Error status.
+
+[2025-12-23T04:29:13.6971168Z] INFO: Info: Key 175 (SG.P...W4SA) had service error with SendGrid. Preserving Error status.
+
+[2025-12-23T04:29:13.6991130Z] INFO: Info: Key 602 (SG.1...wxyz) had service error with SendGrid. Preserving Error status.
+
+[2025-12-23T04:29:13.7011456Z] INFO: Info: Key 1028 (SG.f...iZwQ) had service error with SendGrid. Preserving Error status.
+
+[2025-12-23T04:29:13.7030466Z] INFO: Info: Key 975 (SG.D...hOug) had service error with SendGrid. Preserving Error status.
+
+[2025-12-23T04:29:13.7065628Z] INFO: Warning: Key 1195 exceeded max error threshold (11 errors). Marking as Invalid.
+
+[2025-12-23T04:29:13.7081482Z] INFO: Warning: Key 175 exceeded max error threshold (11 errors). Marking as Invalid.
+
+[2025-12-23T04:29:13.7110123Z] INFO: Warning: Key 602 exceeded max error threshold (11 errors). Marking as Invalid.
+
+[2025-12-23T04:29:13.7133131Z] INFO: Warning: Key 1028 exceeded max error threshold (11 errors). Marking as Invalid.
+
+[2025-12-23T04:29:13.7158227Z] INFO: Warning: Key 975 exceeded max error threshold (11 errors). Marking as Invalid.
+
+[2025-12-23T04:29:13.7172369Z] INFO: Warning: Key 1195 marked as invalid. Detail: API key format is invalid. HTTP: N/A
+
+[2025-12-23T04:29:13.7195959Z] INFO: Warning: Key 175 marked as invalid. Detail: API key format is invalid. HTTP: N/A
+
+[2025-12-23T04:29:13.7216436Z] INFO: Warning: Key 602 marked as invalid. Detail: API key format is invalid. HTTP: N/A
+
+[2025-12-23T04:29:13.7236748Z] INFO: Warning: Key 1028 marked as invalid. Detail: API key format is invalid. HTTP: N/A
+
+[2025-12-23T04:29:13.7259126Z] INFO: Warning: Key 975 marked as invalid. Detail: API key format is invalid. HTTP: N/A
+
+[2025-12-23T04:29:14.2778554Z] INFO: Info: Key 317 (sk-3...9f9e) validated for DeepSeek.
+
+[2025-12-23T04:29:14.2790513Z] INFO: Info: Key 148 (sk-9...3e3d) validated for DeepSeek.
+
+[2025-12-23T04:29:14.2797749Z] INFO: Info: Key 313 (sk-8...b17d) validated for DeepSeek.
+
+[2025-12-23T04:29:14.2798597Z] INFO: Info: Key 1173 (sk-5...c3e2) validated for DeepSeek.
+
+[2025-12-23T04:29:14.2814637Z] INFO: Info: Key 301 (sk-3...1a1d) validated for DeepSeek.
+
+[2025-12-23T04:29:14.2816770Z] INFO: Info: Key 307 (sk-3...be59) validated for DeepSeek.
+
+[2025-12-23T04:29:14.2817121Z] INFO: Info: Key 305 (sk-f...e7b7) validated for DeepSeek.
+
+[2025-12-23T04:29:14.2818326Z] INFO: Info: Key 309 (sk-5...bf28) validated for DeepSeek.
+
+[2025-12-23T04:29:14.2819027Z] INFO: Info: Key 319 (sk-8...82dc) validated for DeepSeek.
+
+[2025-12-23T04:29:14.2825299Z] INFO: Info: Key 315 (sk-9...21e7) validated for DeepSeek.
+
+[2025-12-23T04:29:14.2840064Z] INFO: Info: Key 1052 (sk-9...f66d) validated for DeepSeek.
+
+[2025-12-23T04:29:14.2851941Z] INFO: Info: Key 311 (sk-4...3ab6) validated for DeepSeek.
+
+[2025-12-23T04:29:14.3167798Z] INFO: Info: Key 621 (sk-c...241e) validated for DeepSeek.
+
+[2025-12-23T04:29:14.4866399Z] INFO: Info: Key 1120 (AIza...tKV8) validated for Google.
+
+[2025-12-23T04:29:14.4873635Z] INFO: Info: Key 1171 (AIza...Dm3w) validated for Google.
+
+[2025-12-23T04:29:14.4890335Z] INFO: Info: Key 225 (AIza...584A) validated for Google.
+
+[2025-12-23T04:29:14.4904026Z] INFO: Info: Key 434 (AIza...q-Oo) validated for Google.
+
+[2025-12-23T04:29:14.5753210Z] INFO: Info: Key 864 (AIza...uHr4) validated for Google.
+
+[2025-12-23T04:29:14.6394258Z] INFO: Info: Key 270 (AIza...qJAs) validated for Google.
+
+[2025-12-23T04:29:14.8129941Z] INFO: Info: Key 173 (AIza...EqlU) validated for Google.
+
+[2025-12-23T04:29:14.8143832Z] INFO: Info: Key 1134 (AIza...84Xg) validated for Google.
+
+[2025-12-23T04:29:14.8251999Z] INFO: Info: Key 387 (AIza...ADpw) validated for Google.
+
+[2025-12-23T04:29:14.8276845Z] INFO: Info: Key 79 (AIza...I8Fs) validated for Google.
+
+[2025-12-23T04:29:14.8298372Z] INFO: Info: Key 105 (AIza...9pxQ) validated for Google.
+
+[2025-12-23T04:29:14.8325687Z] INFO: Info: Key 506 (AIza...wauc) validated for Google.
+
+[2025-12-23T04:29:14.8326559Z] INFO: Info: Key 882 (AIza...dnzw) validated for Google.
+
+[2025-12-23T04:29:14.8328250Z] INFO: Info: Key 1066 (AIza...d2iY) validated for Google.
+
+[2025-12-23T04:29:14.8333677Z] INFO: Info: Key 370 (AIza...60Ks) validated for Google.
+
+[2025-12-23T04:29:14.8355685Z] INFO: Info: Key 1010 (AIza...wxJQ) validated for Google.
+
+[2025-12-23T04:29:14.8404722Z] INFO: Info: Key 863 (AIza...JBMs) validated for Google.
+
+[2025-12-23T04:29:14.8465924Z] INFO: Info: Key 218 (AIza...lErI) validated for Google.
+
+[2025-12-23T04:29:14.8467508Z] INFO: Info: Key 946 (AIza...HxXg) validated for Google.
+
+[2025-12-23T04:29:14.8485297Z] INFO: Info: Key 333 (AIza...DZYc) validated for Google.
+
+[2025-12-23T04:29:14.8487582Z] INFO: Info: Key 89 (AIza...W9Qo) validated for Google.
+
+[2025-12-23T04:29:14.8504268Z] INFO: Info: Key 513 (AIza...zCro) validated for Google.
+
